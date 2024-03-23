@@ -1,0 +1,18 @@
+.create-btn{
+  margin: 0 auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.center{
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(18.2px);
+    -webkit-backdrop-filter: blur(18.2px);
+    height: 20rem;
+    position: relative;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.btn-main{
+    margin-top: 6rem;
+}
